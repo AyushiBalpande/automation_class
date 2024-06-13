@@ -1,0 +1,1 @@
+package instance_variable_method;
